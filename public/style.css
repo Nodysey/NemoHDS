@@ -1094,7 +1094,7 @@ hr {
   flex-direction: row !important;
   max-width: none !important;
   height: 80% !important;
-  top: 10%;
+  top: 12.5%;
   overflow: hidden;
 }
 
@@ -1113,7 +1113,7 @@ hr {
 }
 
 #ldl-location-label {
-  font-size: 12pt !important;
+  font-size: 11pt !important;
   text-align: center !important;
   /*width: 100% !important;*/
   margin: 0 !important;
