@@ -1,6 +1,7 @@
 <img src="https://github.com/Nodysey/NemoHDS/blob/main/public/images/hdslogo_2024.png">
 <h1>NemoHDS (Fork of FoxHDS, which is itself a fork of WeatherHDS)</h1>
-<img src="https://github.com/Nodysey/NemoHDS/blob/main/public/images/screenshot.png">
+
+![screenshot](https://github.com/Nodysey/NemoHDS/blob/main/public/images/screenshot.png)
 
 ## Present continuous weather data on display screens, with easy deployment and free and open source software.
 NemoHDS is a Node.JS app based on WeatherHDS that simplifies the presentation of modern and updated weather graphics on digital displays or other types of broadcasts. Designed with modularity and infinite customizability in mind, thanks to WeatherHDS' simplified underlying system completly built on standard web technologies.
@@ -45,6 +46,7 @@ If you know HTML / CSS / JS, consider helping the project by making a pull reque
 - Google Material icons (APACHE 2.0): https://fonts.google.com/icons | https://www.apache.org/licenses/LICENSE-2.0
 - weather videos (Pexels): https://www.pexels.com/license/
 - Hainesnoids - the fork | https://github.com/nodysey
+- Flybotworld - 1 single commit
 
 # Unresolved Issues
 - Memory leak (accumulating memory usage as the program operates)
